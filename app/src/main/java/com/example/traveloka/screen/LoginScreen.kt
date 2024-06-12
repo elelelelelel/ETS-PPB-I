@@ -38,8 +38,8 @@ import com.ramcosta.composedestinations.navigation.EmptyDestinationsNavigator
 
 
 /**
- * Created by wahid on 5/16/2024.
- * Github github.com/wahidabd.
+ * Created by el on 5/16/2024.
+ * Github github.com/elelelelelel.
  */
 
 @RootNavGraph(start = true)
